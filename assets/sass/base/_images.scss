@@ -1,0 +1,41 @@
+.hero-section__img--large {
+  display: inline-block;
+  width: 69%;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.img-large {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  vertical-align: middle;
+}
+.section-bottoms__img--medium {
+  display: inline-block;
+  width: 25%;
+  vertical-align: top;
+  height: 100%;
+}
+.img-map {
+    width: 80%;
+    height: 100%;
+    object-fit: cover;
+    vertical-align: top;
+    position: relative;
+    right: 2rem;
+    top: 1rem;
+  }
+  .img-grain {
+    width: 80%;
+    height: 100%;
+    object-fit: cover;
+    vertical-align: top;
+    position: relative;
+  }
+  .img-medium {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    vertical-align: top;
+  }
